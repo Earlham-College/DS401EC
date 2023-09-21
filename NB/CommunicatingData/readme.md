@@ -14,9 +14,6 @@ This folder houses an extensive aggregation of resources directly aligned with t
 
 ## Contents
 1. [Instructions](#instructions)
-1. [Introduction](#intro)
-1. [Implementation](#implementation)
-1. [References and repositories](#references)
 
 
 ### instructions
