@@ -31,10 +31,10 @@ Extra material:
 ## 2. Folders <a name = folders></a>
 ### Students folder
 Please use this folder to put your a clone/copy of your own repository.
-[students repo](https://github.com/Earlham-College/DS401EC/tree/main/students)
+[Students Repository](https://github.com/Earlham-College/DS401EC/tree/main/students)
 
 
 # References <a name="references"></a>
 
-[1] https://github.com/cs109/2015lab1
-[2] https://harvard-iacs.github.io/2019-CS109A/pages/materials.html
+1. https://github.com/cs109/2015lab1
+2. https://harvard-iacs.github.io/2019-CS109A/pages/materials.html
