@@ -1,9 +1,29 @@
-# Statistics Modeling for Data Science
+# Statistics for Data Science [DS401]
 #### By: Javier Orduz
-[license-badge]: https://img.shields.io/badge/License-CC-orange
+
+[licenseBDG]: https://img.shields.io/badge/License-CC-orange?style=plastic
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
 
-[![CC License][license-badge]][license]  [![DS](https://img.shields.io/badge/downloads-DS-green)](https://github.com/Earlham-College/DS_Fall_2022)  [![Github](https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduz/)  ![Follow @jaorduc](https://img.shields.io/twitter/follow/jaorduc?label=follow&logo=twitter&logoColor=lkj&style=plastic)
+[mywebsiteBDG]:https://img.shields.io/badge/website-jaorduz.github.io-0abeeb?style=plastic
+[mywebsite]: https://jaorduz.github.io/
+
+[mygithubBDG-jaorduz]: https://img.shields.io/badge/jaorduz-repos-blue?logo=github&label=jaorduz&style=plastic
+[mygithub-jaorduz]: https://github.com/jaorduz/
+
+[mygithubBDG-jaorduc]: https://img.shields.io/badge/jaorduc-repos-blue?logo=github&label=jaorduc&style=plastic 
+[mygithub-jaorduc]: https://github.com/jaorduc/
+
+[myXprofileBDG]: https://img.shields.io/static/v1?label=Follow&message=jaorduc&color=2ea44f&style=plastic&logo=X&logoColor=black
+[myXprofile]:https://twitter.com/jaorduc
+
+
+[![website - jaorduz.github.io][mywebsiteBDG]][mywebsite]
+[![Github][mygithubBDG-jaorduz]][mygithub-jaorduz]
+[![Github][mygithubBDG-jaorduc]][mygithub-jaorduc]
+[![Follow @jaorduc][myXprofileBDG]][myXprofile]
+[![CC License][licenseBDG]][license]
+
+<hr>
 
 
 This repo has material of my course course on Data Science 2023.

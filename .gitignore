@@ -27,7 +27,7 @@ share/python-wheels/
 MANIFEST
 NoShare/
 *_Profe.ipynb
-
+*_NoShare/
 
 
 # PyInstaller
