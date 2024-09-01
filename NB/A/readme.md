@@ -1,5 +1,5 @@
 # Statistics for Data Science [DS401]
-## Data
+## Basics with Python
 #### By: Javier Orduz
 
 [licenseBDG]: https://img.shields.io/badge/License-CC-orange?style=plastic
@@ -23,5 +23,3 @@
 [![Github][mygithubBDG-jaorduc]][mygithub-jaorduc]
 [![Follow @jaorduc][myXprofileBDG]][myXprofile]
 [![CC License][licenseBDG]][license]
-
-This folder contains data base were taken from other sources, check this [https://github.com/jaorduc/DataScienceCC/readme.md](https://github.com/jaorduc/DataScienceCC/blob/main/README.md) document  for the references.

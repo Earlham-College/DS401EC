@@ -1,5 +1,5 @@
 # Statistics for Data Science [DS401]
-## Data
+## 
 #### By: Javier Orduz
 
 [licenseBDG]: https://img.shields.io/badge/License-CC-orange?style=plastic
@@ -24,4 +24,13 @@
 [![Follow @jaorduc][myXprofileBDG]][myXprofile]
 [![CC License][licenseBDG]][license]
 
-This folder contains data base were taken from other sources, check this [https://github.com/jaorduc/DataScienceCC/readme.md](https://github.com/jaorduc/DataScienceCC/blob/main/README.md) document  for the references.
+
+This repository houses an extensive aggregation of resources directly aligned with the Elementary Statistics course. Notably, I have curated a repository of quality control (QC) materials, carefully chosen to substantially enrich and augment your career aspirations. I hold a genuine expectation that these resources will emerge as indispensable assets, substantially propelling your knowledge and expertise within the field.
+
+*by: Javier Orduz*
+
+## Contents
+1. [Instructions](#instructions)
+1. [Introduction](#intro)
+1. [Implementation](#implementation)
+1. [References and repositories](#references)

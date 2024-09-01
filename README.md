@@ -1,29 +1,9 @@
-# Statistics for Data Science [DS401]
+# Statistics Modeling for Data Science
 #### By: Javier Orduz
-
-[licenseBDG]: https://img.shields.io/badge/License-CC-orange?style=plastic
+[license-badge]: https://img.shields.io/badge/License-CC-orange
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
 
-[mywebsiteBDG]:https://img.shields.io/badge/website-jaorduz.github.io-0abeeb?style=plastic
-[mywebsite]: https://jaorduz.github.io/
-
-[mygithubBDG-jaorduz]: https://img.shields.io/badge/jaorduz-repos-blue?logo=github&label=jaorduz&style=plastic
-[mygithub-jaorduz]: https://github.com/jaorduz/
-
-[mygithubBDG-jaorduc]: https://img.shields.io/badge/jaorduc-repos-blue?logo=github&label=jaorduc&style=plastic 
-[mygithub-jaorduc]: https://github.com/jaorduc/
-
-[myXprofileBDG]: https://img.shields.io/static/v1?label=Follow&message=jaorduc&color=2ea44f&style=plastic&logo=X&logoColor=black
-[myXprofile]:https://twitter.com/jaorduc
-
-
-[![website - jaorduz.github.io][mywebsiteBDG]][mywebsite]
-[![Github][mygithubBDG-jaorduz]][mygithub-jaorduz]
-[![Github][mygithubBDG-jaorduc]][mygithub-jaorduc]
-[![Follow @jaorduc][myXprofileBDG]][myXprofile]
-[![CC License][licenseBDG]][license]
-
-<hr>
+[![CC License][license-badge]][license]  [![DS](https://img.shields.io/badge/downloads-DS-green)](https://github.com/Earlham-College/DS_Fall_2022)  [![Github](https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduz/)  ![Follow @jaorduc](https://img.shields.io/twitter/follow/jaorduc?label=follow&logo=twitter&logoColor=lkj&style=plastic)
 
 
 This repo has material of my course course on Data Science 2023.
@@ -51,10 +31,10 @@ Extra material:
 ## 2. Folders <a name = folders></a>
 ### Students folder
 Please use this folder to put your a clone/copy of your own repository.
-[Students Repository](https://github.com/Earlham-College/DS401EC/tree/main/students)
+[students repo](https://github.com/Earlham-College/DS401EC/tree/main/students)
 
 
 # References <a name="references"></a>
 
-1. https://github.com/cs109/2015lab1
-2. https://harvard-iacs.github.io/2019-CS109A/pages/materials.html
+[1] https://github.com/cs109/2015lab1
+[2] https://harvard-iacs.github.io/2019-CS109A/pages/materials.html

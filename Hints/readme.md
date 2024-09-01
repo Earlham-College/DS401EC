@@ -1,5 +1,5 @@
 # Statistics for Data Science [DS401]
-## Data
+## Hints
 #### By: Javier Orduz
 
 [licenseBDG]: https://img.shields.io/badge/License-CC-orange?style=plastic
@@ -24,4 +24,16 @@
 [![Follow @jaorduc][myXprofileBDG]][myXprofile]
 [![CC License][licenseBDG]][license]
 
-This folder contains data base were taken from other sources, check this [https://github.com/jaorduc/DataScienceCC/readme.md](https://github.com/jaorduc/DataScienceCC/blob/main/README.md) document  for the references.
+
+This a folder that contains hints, tips, tests, and even potential errors with Python packages for DS.
+
+
+## Contents
+1. [NB 1](#NBOne)
+1. [NB 2](#NBTwo)
+
+## 1. NB 1 <a name = NBOne></a>
+How to install a package without use the terminal.
+
+## 1. NB 2 <a name = NBTwo></a>
+
